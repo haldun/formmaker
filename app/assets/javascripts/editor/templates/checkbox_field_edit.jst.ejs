@@ -1,0 +1,7 @@
+<ul>
+  <li ng-repeat="choice in editingField.choices">
+    <input ng-model="choice.label">
+    <button class="btn btn-mini btn-danger" ng-click="removeChoice(choice)">-</button>
+  </li>
+</ul>
+<button ng-click="newChoice()">+</button>

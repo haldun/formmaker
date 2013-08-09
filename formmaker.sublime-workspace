@@ -1,0 +1,368 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cla",
+				"cla	class .. end"
+			],
+			[
+				"mod",
+				"mod	module .. end"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			]
+		]
+	},
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"caml",
+				"Set Syntax: OCaml"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"theme",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"cycl",
+				"SchemeCycler : Next Color Scheme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synax hs",
+				"Set Syntax: Shell Script (Bash)"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 480.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hb/Developer/haldun/formmaker/config/routes.rb",
+		"/Users/hb/Developer/haldun/formmaker/app/assets/javascripts/editor/templates/checkbox_field_edit.jst.ejs",
+		"/Users/hb/Developer/haldun/formmaker/app/assets/javascripts/application.js",
+		"/Users/hb/Developer/haldun/formmaker/app/assets/javascripts/editor/templates/text_field_edit.jst.ejs",
+		"/Users/hb/Developer/haldun/formmaker/app/assets/javascripts/editor/templates/text_field_preview.jst.ejs",
+		"/Users/hb/Developer/haldun/formmaker/app/views/layouts/application.html.erb",
+		"/Users/hb/Developer/haldun/formmaker/app/views/home/index.html.erb",
+		"/Users/hb/Developer/haldun/formmaker/Gemfile",
+		"/Users/hb/Developer/haldun/formmaker/app/assets/javascripts/editor.js",
+		"/Users/hb/Developer/haldun/formmaker/app/assets/stylesheets/application.css.scss",
+		"/Users/hb/Developer/haldun/formmaker/app/controllers/home_controller.rb",
+		"/Users/hb/Developer/haldun/formmaker/app/views/layouts/home.html.erb",
+		"/Users/hb/Developer/haldun/formmaker/vendor/assets/stylesheets/bootstrap.css",
+		"/Users/hb/Developer/haldun/formmaker/formmaker.sublime-project",
+		"/Users/hb/Developer/sandbox/ocaml/real-world-ocaml/ch04/freq.ml",
+		"/Users/hb/Developer/sandbox/ocaml/real-world-ocaml/ch15/github.atd",
+		"/Users/hb/.zshrc",
+		"/Users/hb/Developer/sandbox/js/helloworld/app.js",
+		"/Users/hb/Developer/sandbox/js/helloworld/package.json",
+		"/Users/hb/Developer/sandbox/js/myproject/harp.json",
+		"/Users/hb/Developer/sandbox/js/myproject/app.js",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/assets/javascripts/templates/home.jst.ejs",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/assets/javascripts/application.js",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/assets/javascripts/templates/tournament_standings.jst.ejs",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/assets/javascripts/sporskor.js",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/assets/javascripts/templates/article_detail.jst.ejs",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/assets/javascripts/templates/live.jst.ejs",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/views/home/index.html.erb",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/assets/javascripts/templates/tournament_rounds.jst.ejs",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/assets/javascripts/templates/match.jst.ejs",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/assets/javascripts/templates/team.jst.ejs",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/assets/javascripts/templates/tournament.jst.ejs",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/assets/javascripts/templates/tournament_standing.jst.ejs",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/assets/javascripts/templates/tournaments.jst.ejs",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/assets/javascripts/templates/video.jst.ejs",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/assets/javascripts/templates/videos.jst.ejs",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/assets/javascripts/templates/articles.jst.ejs",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/assets/javascripts/templates/article.jst.ejs",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/models/broadage_import.rb",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/controllers/articles_controller.rb",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/builders/admin_menu_tab_builder.rb",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/controllers/broadage_files_controller.rb",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/controllers/live_controller.rb",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/controllers/tournaments_controller.rb",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/models/broadage_file.rb",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/app/models/concerns/has_token.rb",
+		"/Users/hb/Developer/fazlamesai/sporskor/sporskor/Gemfile",
+		"/Users/hb/Developer/fazlamesai/sporskor/app/assets/javascripts/sporskor.js",
+		"/Users/hb/Developer/fazlamesai/sporskor/app/controllers/articles_controller.rb",
+		"/Users/hb/Developer/fazlamesai/sporskor/app/controllers/broadage_files_controller.rb",
+		"/Users/hb/Developer/fazlamesai/sporskor/app/controllers/live_controller.rb",
+		"/Users/hb/Developer/fazlamesai/sporskor/app/views/home/index.html.erb",
+		"/Users/hb/Developer/fazlamesai/sporskor/app/services/broadage_importer.rb",
+		"/Users/hb/Developer/fazlamesai/anketmatik/app/serializers/survey_detail_serializer.rb",
+		"/Users/hb/Developer/fazlamesai/anketmatik/app/controllers/concerns/authentication.rb",
+		"/Users/hb/Developer/fazlamesai/anketmatik/app/assets/javascripts/bootstrap_setup.js.coffee",
+		"/Users/hb/Developer/fazlamesai/anketmatik/app/assets/stylesheets/application.css.scss",
+		"/Users/hb/Developer/fazlamesai/anketmatik/app/serializers/question_serializer.rb",
+		"/Users/hb/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/hb/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/hb/Developer/fazlamesai/anketmatik/app/controllers/admin/questions_controller.rb",
+		"/Users/hb/Developer/fazlamesai/anketmatik/app/models/concerns/has_token.rb",
+		"/Users/hb/Developer/fazlamesai/anketmatik/app/models/question.rb",
+		"/Users/hb/Developer/fazlamesai/anketmatik/app/models/base_choice_question.rb",
+		"/Users/hb/Developer/fazlamesai/anketmatik/app/models/survey.rb",
+		"/Users/hb/Developer/fazlamesai/esg/app/assets/images/logo.png",
+		"/Users/hb/Developer/fazlamesai/esg/app/models/series.rb",
+		"/Users/hb/Developer/fazlamesai/esg/app/models/export_ftp_config.rb",
+		"/Users/hb/Developer/fazlamesai/esg/app/models/tag_type.rb",
+		"/Users/hb/Developer/fazlamesai/esg/app/models/targeting_invisible_channel.rb",
+		"/Users/hb/Developer/fazlamesai/esg/app/controllers/admin/categories_controller.rb",
+		"/Users/hb/Developer/fazlamesai/esg/app/models/permissions.rb",
+		"/Users/hb/Developer/fazlamesai/esg/app/models/permissions/provider_permission.rb"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"field",
+			"Field'",
+			">",
+			"<",
+			"{",
+			"Field,",
+			"new CatalogItem",
+			"ul",
+			"formTitle",
+			"version",
+			"TournamentStandingsCtrl",
+			"templateUrl",
+			"article-detail.html",
+			"fmVideo",
+			"open",
+			"auto"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"sporkos",
+				"app/assets/javascripts/sporskor.js"
+			],
+			[
+				"home.htm",
+				"app/views/home/index.html.erb"
+			],
+			[
+				"spros",
+				"app/assets/javascripts/sporskor.js"
+			],
+			[
+				"import",
+				"app/models/broadage_import.rb"
+			],
+			[
+				"capfi",
+				"Capfile"
+			],
+			[
+				"sidekiq",
+				"config/initializers/sidekiq.rb"
+			],
+			[
+				"deploy",
+				"config/deploy.rb"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"sporskoj",
+				"app/assets/javascripts/sporskor.js"
+			],
+			[
+				"homeindex",
+				"app/views/home/index.html.erb"
+			],
+			[
+				"spor",
+				"app/assets/javascripts/sporskor.js"
+			],
+			[
+				"coffee",
+				"app/assets/javascripts/bootstrap_setup.js.coffee"
+			],
+			[
+				"appcss",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"questionc",
+				"app/controllers/admin/questions_controller.rb"
+			],
+			[
+				"quest",
+				"app/models/question.rb"
+			],
+			[
+				"questionscontroller",
+				"app/controllers/admin/questions_controller.rb"
+			],
+			[
+				"questio",
+				"app/models/question.rb"
+			],
+			[
+				"surve",
+				"app/models/survey.rb"
+			],
+			[
+				"providerper",
+				"app/models/permissions/provider_permission.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

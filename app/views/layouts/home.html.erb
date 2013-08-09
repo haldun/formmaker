@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html ng-app="editor">
+<head>
+  <title>Formmaker</title>
+  <%= stylesheet_link_tag "application", media: "all", "data-turbolinks-track" => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+<div class="container">
+  <h1>FormMaker</h1>
+  <%= yield %>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular-resource.min.js"></script>
+<%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+</body>
+</html>
